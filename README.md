@@ -1,4 +1,7 @@
 # webpConverter
+
+Because we all hate when we download an image only to discover it's in WEBP format...
+
 Converts WEBP files to JPG or PNG
 
 You can use the Python files directly to convert through the command line.
